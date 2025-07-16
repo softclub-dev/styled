@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body {
+    background: #070707;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header.sb, main.sb{
+    max-width: 100%;
+}
+
+header.sb.advanced,
+header.sb.advanced .nav-header-container,
+.infinite-scroller,
+main .main-body-wrapper .left-sidebar-wrapper {
+    background: #11112A;
+}
+
+header.sb.advanced .main-header-container{
+    box-shadow: none;
+}
+
+body .hamburger-menu{
+    background: #141f3c!important;
+}
+
+.casino-list-container.square-buttons .list-wrapper .menu-item.active{
+    background: #896FFF!important;
+}
+
+.nav-box-item{
+    background:  #1E1B3A;
+}
+
+.casino-left-sidebar .left-sidebar-wrapper .left-sidebar .nav-info-container .active .nav-box-item{
+    background: #896FFF;
+}
+
+header.sb.advanced .nav-header-container{
+    box-shadow: none;
+}
+
+.header .btn.btn-transparent, button.btn-transparent{
+    background: #896FFF;
+}
+
+.header .btn.btn-basic, button.btn-basic{
+    background: 0 0;
+    border: 2px solid rgba(227, 239, 244, 0.1);
+}
+
+.header .btn.btn-basic, button.btn-basic{
+    box-shadow: none;
+}
+
+header.sb.advanced .main-header-container .time-box {
+    min-width: 90px;
+    text-align: center;
+}
+
+body .modal-wrapper.sign-up-wrapper .secondary-tabs .tab.active{
+    background: #896FFF;
+}
+
+body .sb-close:before,
+body .modal-wrapper .sign-in-container .forgot-btn,
+body .modal-wrapper .sign-in-container .bottom-text a{
+    color: #896FFF;
+}
+
+.sign-in-container{
+    background: #141f3c
+}
+
+body .btn.btn-basic:hover, button.btn-basic:hover{
+    color: #fff;
+    background: #896FFF;
+}
+
+body .hamburger-menu .top-section{
+    background-image: linear-gradient(105deg, rgb(137, 111, 256) -60%, rgba(21, 29, 49, 0) 35%) !important;
+}
+
+.hamburger-menu .top-section::before {
+    background-image: linear-gradient(rgb(137, 111, 256), rgb(137, 111, 256));
+}
+
+span.icon-box{
+    background-image: linear-gradient(rgb(137, 111, 256), rgb(137, 111, 256));
+}
+
+body .modal-wrapper.sign-up-wrapper .secondary-tabs .tab{
+    color: #896FFF;
+    border: 1px solid #896FFF;
+}
+
+body .user-section .btn.btn-basic.small::before{
+    font-family: inherit !important;
+}
+
+body input.dark, select{
+    border: 1px solid rgb(137, 111, 255);
+}
+
+body .profile-main-content .panel-main-info .right-section .field-box{
+    width: 190px;
+}
+body .sb-popup .main-content {
+    background: #141f3c
+}
+
+body .sb-icon.sb-inline{
+    background: rgb(137, 111, 255);
+}
+
+body .terms-and-conditions-wrapper u{
+    color: #896FFF; 
+}
